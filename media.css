@@ -1,0 +1,17 @@
+@media (max-width:573px){
+    .search{
+        display: hidden;
+    }
+
+    .dropdown-menu-register{
+        left: 1px !important;
+    }
+
+    .search{
+        width: 350px;
+        border: none;
+        background-color: #F3F4F6;
+        padding: 8px 20px;
+        margin: 40px 0 40px 40px !important;
+    }
+}
